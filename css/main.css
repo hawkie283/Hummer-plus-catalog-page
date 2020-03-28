@@ -757,10 +757,10 @@ html{
 }
 
 .mail__address {
-    position: relative;
+    position: absolute;
     left: 480px;
     right: 36px;
-    bottom: 112px;
+    bottom: 42px;
     margin-left: 247px;
 
 }
